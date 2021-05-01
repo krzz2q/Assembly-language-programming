@@ -1,2 +1,2 @@
-# -Assembly-language-programming
-USTB_ assembly_language_learning
+# Assembly-language-programming
+USTB assembly language learning
